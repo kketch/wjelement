@@ -48,7 +48,7 @@ console.log(JSON.stringify(doc));
 */
 
 
-#include <wjelement.h>
+#include "wjelement.h"
 
 
 int main(int argc, char **argv) {

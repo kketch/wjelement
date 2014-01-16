@@ -15,13 +15,13 @@
 */
 
 
-#include <xpl.h>
-#include <hulautil.h>
-#include <memmgr.h>
+#include "xpl.h"
+#include "hulautil.h"
+#include "memmgr.h"
 
-#include <wjreader.h>
-#include <wjwriter.h>
-#include <wjelement.h>
+#include "wjreader.h"
+#include "wjwriter.h"
+#include "wjelement.h"
 
 /*
 	The JSON document below will be provided to each of the test functions.

@@ -15,9 +15,9 @@
 */
 
 
-#include <xpl.h>
-#include <memmgr.h>
-#include <wjelement.h>
+#include "xpl.h"
+#include "memmgr.h"
+#include "wjelement.h"
 
 typedef int			(* cmdcb)(WJElement *document, WJElement *current, char *line);
 

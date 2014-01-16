@@ -7,8 +7,8 @@
 */
 
 
-#include <wjelement.h>
-#include <wjreader.h>
+#include "wjelement.h"
+#include "wjreader.h"
 #include <stdarg.h>
 #include <stdio.h>
 #include <stdlib.h>

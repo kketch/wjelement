@@ -18,8 +18,8 @@
 #ifndef WARP_JSON_ELEMENT_H
 #define WARP_JSON_ELEMENT_H
 
-#include <wjreader.h>
-#include <wjwriter.h>
+#include "wjreader.h"
+#include "wjwriter.h"
 
 #ifdef __cplusplus
 extern "C" {

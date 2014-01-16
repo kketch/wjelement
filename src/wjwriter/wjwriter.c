@@ -18,11 +18,11 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include <xpl.h>
-#include <hulautil.h>
-#include <memmgr.h>
+#include "xpl.h"
+#include "hulautil.h"
+#include "memmgr.h"
 
-#include <wjwriter.h>
+#include "wjwriter.h"
 
 #if defined(_MSC_VER)
 #include <BaseTsd.h>

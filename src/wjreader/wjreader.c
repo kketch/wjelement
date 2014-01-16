@@ -19,11 +19,11 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include <xpl.h>
-#include <hulautil.h>
-#include <memmgr.h>
+#include "xpl.h"
+#include "hulautil.h"
+#include "memmgr.h"
 
-#include <wjreader.h>
+#include "wjreader.h"
 
 #if defined(_MSC_VER)
 #define strtoull(nptr, endptr, base) _strtoui64(nptr, endptr, base)

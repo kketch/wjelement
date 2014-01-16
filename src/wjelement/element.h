@@ -21,11 +21,11 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include <xpl.h>
-#include <hulautil.h>
-#include <memmgr.h>
+#include "xpl.h"
+#include "hulautil.h"
+#include "memmgr.h"
 
-#include <wjelement.h>
+#include "wjelement.h"
 
 typedef struct {
 	WJElementPublic		pub;

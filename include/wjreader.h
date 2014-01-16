@@ -18,7 +18,7 @@
 #ifndef WARP_JSON_READER_H
 #define WARP_JSON_READER_H
 
-#include <xpl.h>
+#include "xpl.h"
 
 #ifdef __cplusplus
 extern "C"{
